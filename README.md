@@ -17,6 +17,7 @@ This project is a **responsive web page** for showcasing a modern chair product.
 
 ## Preview
 
-![Modern Chair Page Screenshot](modernChair.png)
+![Modern Chair Page Screenshot](https://github.com/user-attachments/assets/c2b72f22-9195-4963-b866-6cfbbb0f08ca)
+
 
 
